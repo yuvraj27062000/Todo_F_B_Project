@@ -1,0 +1,30 @@
+[
+    {
+        "id": 638924111269,
+        "name": "Yuvraj Singh Chouhan",
+        "email": "yuvraj@gmail.com",
+        "password": "Yuvraj",
+        "phone": "08120890897"
+    },
+    {
+        "id": 395944256370,
+        "name": "yash",
+        "email": "yash@gmail.com",
+        "password": "1234",
+        "phone": "234567876543"
+    },
+    {
+        "id": 962086400238,
+        "name": "sonu",
+        "email": "sonu@gmail.com",
+        "password": "654",
+        "phone": "87654323456"
+    },
+    {
+        "id": 263003125568,
+        "name": "jay tiwari",
+        "email": "jai@gmail.com",
+        "password": "756765",
+        "phone": "76543234567"
+    }
+]
